@@ -7,5 +7,7 @@
 
 [Identification of the central compact object in the young supernova remnant 1E 0102.2–7219](https://www.nature.com/articles/s41550-018-0433-0)
 
+[What is the behavior of the ISM in the SMC?](https://arxiv.org/pdf/astro-ph/0008327)
+
 ## observations
 [Chandra images](https://chandra.harvard.edu/photo/2018/e0102/)
