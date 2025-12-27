@@ -16,3 +16,5 @@
 
 ## observations
 [Chandra images](https://chandra.harvard.edu/photo/2018/e0102/)
+
+[Chandra red/blue structure](https://chandra.harvard.edu/photo/2009/e0102/index.html)
