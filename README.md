@@ -22,3 +22,5 @@
 [Chandra red/blue structure](https://chandra.harvard.edu/photo/2009/e0102/index.html)
 
 [NASA HST images](https://science.nasa.gov/asset/hubble/supernova-remnant-1e-0102/)
+
+[Expansion timelapse (HST)](https://science.nasa.gov/asset/hubble/snr-1e-0102-expansion/)
