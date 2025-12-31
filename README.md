@@ -11,6 +11,8 @@
 
 [The Center of Expansion and Age of the Oxygen-rich Supernova Remnant 1E 0102.2-7219](https://iopscience.iop.org/article/10.3847/1538-4357/abe2a7/pdf)
 
+[Chandra High-Resolution X-Ray Spectrum of Supernova Remnant 1E 0102.2-7219](https://arxiv.org/pdf/astro-ph/0312509)
+
 ## different SNR but relevant methodology
 [The Three-dimensional Expansion of the Ejecta from Tycho's Supernova Remnant](https://iopscience.iop.org/article/10.3847/1538-4357/aa7384/pdf)
 
