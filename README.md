@@ -16,6 +16,12 @@
 
 [Direct Ejecta Velocity Measurements of Tycho's Supernova Remnant](https://arxiv.org/pdf/1605.09059)
 
+[ATCA study of Small Magellanic Cloud supernova remnant 1E 0102.2–7219](https://academic.oup.com/mnras/article/527/1/1444/7331444)
+
+[The Expansion of the Forward Shock of 1E 0102.2–7219 in X-Rays](http://iopscience.iop.org/article/10.3847/1538-4357/ab09ea/pdf)
+
+[A Detailed Archival CHANDRA Study of the Young Core-collapse Supernova Remnant 1E 0102.2-7219 in the Small Magellanic Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/aaf882/pdf)
+
 ## observations
 [Chandra images](https://chandra.harvard.edu/photo/2018/e0102/)
 
