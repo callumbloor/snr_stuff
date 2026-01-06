@@ -1,5 +1,3 @@
-# snr_stuff
-
 ## papers on 1E 0102
 [The X–Ray Spectrum of the Supernova Remnant 1E 0102-72.3](https://www.cosmos.esa.int/documents/332006/563627/xmm41.pdf)
 
