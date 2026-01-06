@@ -1,6 +1,6 @@
 # snr_stuff
 
-## papers on this SNR
+## papers on 1E 0102
 [The X–Ray Spectrum of the Supernova Remnant 1E 0102-72.3](https://www.cosmos.esa.int/documents/332006/563627/xmm41.pdf)
 
 [SPITZER OBSERVATIONS OF THE YOUNG CORE-COLLAPSE SUPERNOVA REMNANT 1E0102-72.3](https://iopscience.iop.org/article/10.1088/0004-637X/700/1/579)
