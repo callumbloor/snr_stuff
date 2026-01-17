@@ -32,3 +32,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[proposal & data](https://archive.stsci.edu/proposal_search.php?id=13378&mission=hst)
 
 [Expansion timelapse (HST)](https://science.nasa.gov/asset/hubble/snr-1e-0102-expansion/)
+
+## SMC remnants
+[Physical Properties of the Supernova Remnant Population in the Small Magellanic Cloud](https://iopscience.iop.org/article/10.3847/1538-4357/ac6025/pdf)
+
+[The supernova remnant population of the Small Magellanic Cloud](https://www.aanda.org/articles/aa/pdf/2019/11/aa36583-19.pdf)
+
+[The MeerKAT 1.3 GHz Survey of the Small Magellanic Cloud](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2443C/abstract)
+
+[Spitzer and Herschel studies of dust in supernova remnants in the Small Magellanic Cloud](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.1154M/abstract)
